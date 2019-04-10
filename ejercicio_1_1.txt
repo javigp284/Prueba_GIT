@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Confirmación en local pero no en remoto
+=======
+Confirmación en remoto pero no en local
+>>>>>>> fb256d56cb8fce59db2b16a978a5734dc214f03c
